@@ -20,7 +20,7 @@ Malaria remains a critical global health concern, and accurate detection of the 
 
 ## Dataset
 
-The dataset consists of microscopic images of blood smears categorized into "Parasite" (cells infected with malaria parasites) and "Uninfected" (healthy cells). Due to resource constraints, this project uses a much smaller subset of the original dataset:
+The dataset consists of microscopic images of blood smears categorized into "Parasite" (cells infected with malaria parasites) and "Uninfected" (healthy cells). Due to resource constraints, this project uses a much smaller subset of the original dataset:(https://www.kaggle.com/datasets/nipunarora8/malaria-detection-dataset/data)
 
 ### Training Data
 
